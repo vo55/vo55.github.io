@@ -27,3 +27,24 @@ Art Series is a project by Philip Voss. The project aims to combine the arts of 
 > Therefore, these were the last breaths of the lava from the Fagradalsfjall. 
 > The roughness, but also the softness since the lava was not that active anymore, is displayed in this beer
 > with a mild taste of smoke, which is the only thing left.
+
+## Nordic Warmth
+![Nordic Warmth](/nordic_warmth.jpg)
+&copy; Philip Voss
+
+<dl>
+<dt>Name</dt>
+<dd>Nordic Warmth</dd>
+<dt>Capture Date</dt>
+<dd>Circa 2019/2020</dd>
+<dt>Location</dt>
+<dd>Drochtersen, Germany</dd>
+<dt>Primary Taste</dt>
+<dd>Herb</dd>
+</dl>
+
+> The small lighthouse in Drochtersen at Krautsand Beach. 
+> Whilst lighthouses can be stormy and rough, this time it showed it's other side:
+> A beatiful day with the warmth of a colorful sunset.
+> Whilst the beer has some bitter notes, like a typical nordish beer
+> there a rays of fruits. 
