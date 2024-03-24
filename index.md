@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Art Series
-
-![Koi Braeu](/thumbnail.png)
+![Koi Braeu](/thumbnail.png){: width="500" }
 &copy; Philip Voss
 
 Art Series is a project by Philip Voss. The project aims to combine the arts of photography and brewery. The consumer shall be able to experience the displayed environment visually and in terms of taste leading to an immersive experience with a lot of room for imagination. Following, the different artworks are described with more background information.
