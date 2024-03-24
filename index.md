@@ -46,4 +46,4 @@ Art Series is a project by Philip Voss. The project aims to combine the arts of 
 > The small lighthouse in Drochtersen at Krautsand Beach. 
 > Whilst lighthouses can experience stormy and rough days, this time it showed it's other side:
 > A beatiful day with the warmth of a colorful sunset.
-> The taste of this beer has the aim of matching both. A herb character, but at a beautiful fruitful day.
+> The taste of this beer has the aim of matching both. A bitter and nordish character, but at a beautiful fruitful day.
