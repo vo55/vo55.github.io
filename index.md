@@ -10,15 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Art Series
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Iceland Volcano 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> The Iceland Volcano is a photograph taken in Sept' 2021 in Fagradalsfjall, Iceland.
+> The volcano was already erupting since March 2021 and overall was erupting for six months.
+> Therefore, these were the last breaths of the lava from the Fagradalsfjall. 
+> The roughness, but also the softness since the lava was not that active anymore, is displayed in this beer
+> with a mild taste of smoke, which is the only thing left.
+
+![Iceland Volcano](/iceland_volcano.png)
+&copy; Philip Voss
 
 ### Header 3
 
