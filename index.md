@@ -40,10 +40,13 @@ Art Series is a project by Philip Voss. The project aims to combine the arts of 
 <dt>Location</dt>
 <dd>Drochtersen, Germany</dd>
 <dt>Primary Taste</dt>
-<dd>Herb but a bit fruity</dd>
+<dd>Bitter but sweet</dd>
 </dl>
 
 > The small lighthouse in Drochtersen at Krautsand Beach. 
 > Whilst lighthouses can experience stormy and rough days, this time it showed it's other side:
-> A beatiful day with the warmth of a colorful sunset.
-> The taste of this beer has the aim of matching both. A bitter and nordish character, but at a beautiful fruitful day.
+> A beatiful day with the warmth of a colorful sunset. Also it keeps in mind, that this is not 
+> a typical and big lighthouse, layed directly at the sea. This lighthouse is laying
+> at the Elbe river, and whilst it knows big containerships, it can't imagine the drama some of 
+> the bigger lighthouses have seen.
+> The taste of this beer intends to have a bitter and nordish character, but also with the innocent sweetness that this lighthouse possesses.
