@@ -5,6 +5,10 @@ layout: default
 ![Koi Braeu](/thumbnail.png){: width="500" }
 &copy; Philip Voss
 
+# Our Beers
+Below our Art Series is described. You can find an overview of all our beers [here](./all-beers.html). Also make sure to [follow us on instagram](https://www.instagram.com/koi_braeu/) for latest news and the beers available (family & friends only - non-commercial).
+
+# Art Series
 Art Series is a project by Philip Voss. The project aims to combine the arts of photography and brewery. The consumer shall be able to experience the displayed environment visually and in terms of taste leading to an immersive experience with a lot of room for imagination. Following, the different artworks are described with more background information.
 
 ## Iceland Volcano 
