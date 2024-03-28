@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Koi Braeu](/thumbnail.png){: width="500" }
+![Koi Braeu](/thumbnail.png){: height="500" }
 &copy; Philip Voss
 
 # Our Beers
