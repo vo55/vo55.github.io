@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-[Home](./index.html)  | [Our Beers](./all-beers.html) | [Instagram](https://www.instagram.com/koi_braeu/) 
+[Home](./index.html)  | [Our Beers](./all-beers.html) | [Instagram](https://www.instagram.com/koi_braeu/) | [![Buy me a Coffee](/kofi2.png){: width="100" }](https://ko-fi.com/koibraeu)
 
 ![Koi Braeu](/thumbnail.png){: width="500" }
 &copy; Philip Voss
