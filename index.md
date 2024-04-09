@@ -7,7 +7,7 @@ layout: default
 &copy; Philip Voss
 
 # Our Beers
-Below our Art Series is described. You can find an overview of all our beers [here](./all-beers.html). Also make sure to [follow us on instagram](https://www.instagram.com/koi_braeu/) for latest news and the beers available (family & friends only - non-commercial). Even though this is a hobby brewerey: If you liked the beers I sent you, you would make my day by supporting the hobby. [![Buy me a Coffee](/kofi2.png){: width="120" }](https://ko-fi.com/koibraeu)
+Below our Art Series is described. You can find an overview of all our beers [here](./all-beers.html). Also make sure to [follow us on instagram](https://www.instagram.com/koi_braeu/) for latest news and the beers available (family & friends only - non-commercial). Even though this is a hobby brewerey: If would like to support my hobby, you would make my day by using ko-fi for that: [![Buy me a Coffee](/kofi2.png){: width="120" }](https://ko-fi.com/koibraeu)
 
 # Art Series
 Art Series is a project by Philip Voss. The project aims to combine the arts of photography and brewery. The consumer shall be able to experience the displayed environment visually and in terms of taste leading to an immersive experience with a lot of room for imagination. Following, the different artworks are described with more background information.
